@@ -24,6 +24,7 @@ All SaaS products must adhere to the following product usage guidelines:
 + If a customer already has an account in the SaaS application, they must have the ability to log in from the fulfillment landing page\.
 + Customers must be able to see the status of their subscription within the SaaS application, including any relevant contract or subscription usage information\.
 + Customers must be able to easily get help with issues such as: using the application, troubleshooting, and requesting refunds \(if applicable\)\. Support contact options must be specified on the fulfillment landing page\.
+Product software and metadata must not contain language that redirects users to other cloud platforms, additional products, or up sell services that aren't available on AWS Marketplace.
 
 ## Architecture guidelines<a name="saas-architecture"></a>
 
